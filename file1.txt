@@ -1,1 +1,2 @@
 Azure DevOps trainings.
+date 24th Mar 2023
